@@ -1,2 +1,2 @@
-# imd_web_scraper
+# IMDB Web Scraper
 This will scrape the imdb website top 250 movies
